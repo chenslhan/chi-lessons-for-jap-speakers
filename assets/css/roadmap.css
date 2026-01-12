@@ -1,8 +1,0 @@
-.roadmap-section{background:#f9fafb;padding:2.5rem;border-radius:12px;margin-top:3rem}
-.roadmap-intro{margin-bottom:1.5rem;color:#444}
-.roadmap-table{display:grid}
-.roadmap-row{display:grid;grid-template-columns:1.2fr 3fr 1fr 1.2fr;padding:1rem;border-bottom:1px solid #e5e7eb;background:#fff}
-.roadmap-row.header{background:#eef2ff;font-weight:600}
-.level{font-weight:600}
-.hsk{color:#4f46e5}
-@media(max-width:768px){.roadmap-row{grid-template-columns:1fr}.roadmap-row.header{display:none}}
